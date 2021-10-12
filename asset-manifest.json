@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hitcore/static/css/main.d725c3ff.chunk.css",
+    "main.js": "/hitcore/static/js/main.9bb55ba1.chunk.js",
+    "main.js.map": "/hitcore/static/js/main.9bb55ba1.chunk.js.map",
+    "runtime-main.js": "/hitcore/static/js/runtime-main.34be5899.js",
+    "runtime-main.js.map": "/hitcore/static/js/runtime-main.34be5899.js.map",
+    "static/js/2.8076136c.chunk.js": "/hitcore/static/js/2.8076136c.chunk.js",
+    "static/js/2.8076136c.chunk.js.map": "/hitcore/static/js/2.8076136c.chunk.js.map",
+    "index.html": "/hitcore/index.html",
+    "static/css/main.d725c3ff.chunk.css.map": "/hitcore/static/css/main.d725c3ff.chunk.css.map",
+    "static/js/2.8076136c.chunk.js.LICENSE.txt": "/hitcore/static/js/2.8076136c.chunk.js.LICENSE.txt",
+    "static/media/Guitarfooter.b049b418.PNG": "/hitcore/static/media/Guitarfooter.b049b418.PNG",
+    "static/media/Guitarlessons.5944a773.PNG": "/hitcore/static/media/Guitarlessons.5944a773.PNG",
+    "static/media/Logo.38dd9cdc.PNG": "/hitcore/static/media/Logo.38dd9cdc.PNG",
+    "static/media/News.2779066f.PNG": "/hitcore/static/media/News.2779066f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34be5899.js",
+    "static/js/2.8076136c.chunk.js",
+    "static/css/main.d725c3ff.chunk.css",
+    "static/js/main.9bb55ba1.chunk.js"
+  ]
+}
