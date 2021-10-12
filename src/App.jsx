@@ -24,6 +24,7 @@ return(
     <Route exact path="/recording" component={Cards4}/>
     <Route exact path="/lessons" component={Lessons}/>
     <Route exact path="/news" component={News}/>
+    <Route component={Abouthitcore}/>
   </Switch>
  <Offers/>
   </>
